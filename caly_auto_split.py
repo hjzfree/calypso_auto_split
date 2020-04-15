@@ -8,10 +8,11 @@ Usage:
     --extexec     Defining the external command to run optimization task, Default 'mpirun -np 20 ./vasp > log'
     --calypath    Defining the location of calypso.x, Default './calypso.x'
 
-Author: 
+Authors: 
     Qunchao Tong<tqc@calypso.cn>
+    Jinzhe Han <hjzfree@163.com>
 
-Date: 2019.02.18
+Date: 2019.04.15
 
 Modified:
 '''
